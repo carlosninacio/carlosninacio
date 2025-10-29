@@ -15,8 +15,8 @@ Trabajo con control de versiones usando **Git y GitHub**, y utilizo **Postman** 
 ---
 
 ### 🧰 Tecnologías que uso
-- **Lenguajes:** Java, Python, JavaScript  
-- **Frameworks y Librerías:** Spring Boot, Hibernate, Lombok, React, Angular  
+- **Lenguajes:** Java, Python, JavaScript, TypeScript 
+- **Frameworks y Librerías:** Spring Boot, Hibernate, Lombok, React 
 - **Base de datos:** MySQL  
 - **Herramientas:** Git, GitHub, IntelliJ IDEA, Visual Studio Code, Postman, Tomcat  
 - **Conceptos:** REST APIs, Arquitectura MVC, Programación Orientada a Objetos, Scrum  
@@ -25,7 +25,7 @@ Trabajo con control de versiones usando **Git y GitHub**, y utilizo **Postman** 
 
 ### 📂 Proyectos
 #### 🧮 Sistema de Inventarios
-Proyecto full-stack con **Spring Boot**, **MySQL** y **React**.  
+Proyecto full-stack con **Spring Boot**, **MySQL** y **Angular**.  
 - CRUD completo de productos.  
 - API REST validada con Postman.  
 - Conexión con base de datos MySQL mediante JPA/Hibernate.  
@@ -34,11 +34,25 @@ Proyecto full-stack con **Spring Boot**, **MySQL** y **React**.
 🔗 [Repositorio](https://github.com/carlosninacio/inventario-angular-spring/tree/main)
 
 ---
+#### 🧮 Sistema de Seguimiento de guias
+Proyecto full-stack con **Spring Boot**, **MySQL** y **Angular**.  
+- CRUD completo de productos.  
+- API REST validada con Postman.  
+- Conexión con base de datos MySQL mediante JPA/Hibernate.  
+- Interfaz creada con React para realizar el seguimiento de los pedidos.  
+
+🔗 [Repositorio](https://github.com/carlosninacio/seguimiento-guias-angular-spring/tree/main)
+
+---
 
 ### 🌱 En Aprendizaje
 - Spring Security  
 - Docker  
-- Arquitecturas limpias y microservicios  
+- Arquitecturas limpias y microservicios
+- Angular
+- Servlets
+- JSPs
+- Mejorar HTML, CSS, JS y TS 
 
 ---
 
