@@ -40,6 +40,7 @@ Proyecto **Full Stack** desarrollado con **Spring Boot**, **MySQL** y **React**,
 Integra tecnologías de **Inteligencia Artificial (OCR con Tesseract)** para procesar imágenes de guías y generar automáticamente documentos en Word y reportes en Excel.
 
 **🧩 Tecnologías utilizadas:**  
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
