@@ -39,8 +39,6 @@ Proyecto full-stack con **Spring Boot**, **MySQL** y **Angular**.
 Proyecto **Full Stack** desarrollado con **Spring Boot**, **MySQL** y **React**, enfocado en el **control, lectura y seguimiento automatizado de guías de envío**.  
 Integra tecnologías de **Inteligencia Artificial (OCR con Tesseract)** para procesar imágenes de guías y generar automáticamente documentos en Word y reportes en Excel.
 
----
-
 **🧩 Tecnologías utilizadas:**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -49,8 +47,6 @@ Integra tecnologías de **Inteligencia Artificial (OCR con Tesseract)** para pro
 ![OCR](https://img.shields.io/badge/Tesseract%20OCR-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Apache POI](https://img.shields.io/badge/Apache_POI-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
----
-
 **✨ Características principales:**  
 - CRUD completo de pedidos con persistencia en **MySQL** mediante **Spring Data JPA / Hibernate**.  
 - **Procesamiento automático de imágenes** con **Tesseract OCR** para extraer datos como guía, destino y cliente.  
@@ -58,9 +54,7 @@ Integra tecnologías de **Inteligencia Artificial (OCR con Tesseract)** para pro
 - **API REST** validada con Postman y documentada.  
 - **Frontend en React** para la gestión y visualización de pedidos.  
 
----
-
-🔗 [Repositorio en GitHub](https://github.com/carlosninacio/seguimiento-guias-angular-spring-ia)
+🔗 [Repositorio en GitHub](https://github.com/carlosninacio/seguimiento-guias-angular-spring-ai)
 
 ---
 
