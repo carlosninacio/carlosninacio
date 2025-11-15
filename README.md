@@ -87,8 +87,18 @@ Integra tecnologías de **Inteligencia Artificial (OCR con Tesseract)** para pro
 ---
 
 ### 🌱 En Aprendizaje
-🚀 **Spring Security**, 🐳 **Docker**, 🧩 **Arquitecturas Limpias y Microservicios**,  
-⚛️ **Angular**, ☕ **Servlets**, 📝 **JSPs**, 🎨 **HTML, CSS, JS y TS**
+
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=github&logoColor=white)
+![Microservicios](https://img.shields.io/badge/Microservicios-FF6F00?style=for-the-badge&logo=microgenetics&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-5382A1?style=for-the-badge&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
